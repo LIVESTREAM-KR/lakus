@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>LAKUS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 30 Dec 2021 04:14:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Watch Free] 2021 DREAM CONCERT VOD]]></title>
+            <link>https://www.lakus.live/en/event/dreamconcert2021_vod/</link>
+            <guid>https://www.lakus.live/en/event/dreamconcert2021_vod/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10 (Fri) 06:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/dreamconcert2021_vod/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Healing Time With CHUNG HA]]></title>
+            <link>https://www.lakus.live/en/event/chungha1230/</link>
+            <guid>https://www.lakus.live/en/event/chungha1230/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30 (Thu) 11:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/chungha1230/banner_img_v2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 Apink Fanmeeting 'Pink Eve']]></title>
+            <link>https://www.lakus.live/en/event/apink1231/</link>
+            <guid>https://www.lakus.live/en/event/apink1231/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.31 (Fri) 10:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bandage's Year-end Concert 'Christmas Gift']]></title>
+            <link>https://www.lakus.live/en/event/bandage1225/</link>
+            <guid>https://www.lakus.live/en/event/bandage1225/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.25 (Sat) 10:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/bandage1225/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YUBOEM's Year-end Concert 'Christmas Gift']]></title>
+            <link>https://www.lakus.live/en/event/yuboem1217/</link>
+            <guid>https://www.lakus.live/en/event/yuboem1217/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.17 (Fri) 11:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/yuboem1217/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BOYHOOD's Solo Concert]]></title>
+            <link>https://www.lakus.live/en/event/boyhood0711/</link>
+            <guid>https://www.lakus.live/en/event/boyhood0711/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.11 (Sun) 06:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/boyhood0711/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jaejooboy's Solo Concert 'While the Flowers Bloom and Fall']]></title>
+            <link>https://www.lakus.live/en/event/jaejooboy0605/</link>
+            <guid>https://www.lakus.live/en/event/jaejooboy0605/</guid>
+            <pubDate>Thu, 30 Dec 2021 04:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.06.05 (Sat) 07:00 KST]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+        </item>
+    </channel>
+</rss>

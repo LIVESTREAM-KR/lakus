@@ -1,9 +1,0 @@
-[lakus]
-title = "LAKUS"
-url = "https://www.lakus.live/"
-entrySelector = "div.swiper-wrapper div.swiper-slide.swiper-slide"
-titleSelector = "div.HomeSwiper__Title-sc-1l9r9yu-7.etVFqe"
-linkSelector = "a.HomeSwiper__InfoInner-sc-1l9r9yu-1"
-contentSelector = "div.HomeSwiper__StartDate-sc-1l9r9yu-8.fsEQww"
-imageSelector = "img.h-full"
-waitUntil = "networkidle"

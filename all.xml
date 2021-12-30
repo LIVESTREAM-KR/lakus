@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 04:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[[무료시청이벤트] 2021 드림콘서트 VOD (LAKUS)]]></title>
             <link>https://www.lakus.live/event/dreamconcert2021_vod/</link>
             <guid>https://www.lakus.live/event/dreamconcert2021_vod/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.10 (Fri) 06:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/dreamconcert2021_vod/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
@@ -19,7 +19,7 @@
             <title><![CDATA[Healing Time With CHUNG HA (LAKUS)]]></title>
             <link>https://www.lakus.live/event/chungha1230/</link>
             <guid>https://www.lakus.live/event/chungha1230/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (Thu) 11:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/chungha1230/banner_img_v2.jpg" length="0" type="image/jpg"/>
         </item>
@@ -27,7 +27,7 @@
             <title><![CDATA[2021 Apink Fanmeeting 'Pink Eve' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/apink1231/</link>
             <guid>https://www.lakus.live/event/apink1231/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.31 (Fri) 10:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
         </item>
@@ -35,7 +35,7 @@
             <title><![CDATA[밴디지 연말 단독콘서트 'Christmas Gift' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/bandage1225/</link>
             <guid>https://www.lakus.live/event/bandage1225/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.25 (Sat) 10:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/bandage1225/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
@@ -43,7 +43,7 @@
             <title><![CDATA[유보엠 연말 단독콘서트 'Christmas Gift' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/yuboem1217/</link>
             <guid>https://www.lakus.live/event/yuboem1217/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (Fri) 11:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/yuboem1217/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
@@ -51,7 +51,7 @@
             <title><![CDATA[보이후드 단독콘서트 'BOYHOOD #3 DREAM' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/boyhood0711/</link>
             <guid>https://www.lakus.live/event/boyhood0711/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.11 (Sun) 06:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/boyhood0711/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
@@ -59,7 +59,7 @@
             <title><![CDATA[재주소년 단독 공연 '꽃이 피고 지는 동안' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/jaejooboy0605/</link>
             <guid>https://www.lakus.live/event/jaejooboy0605/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:23:36 GMT</pubDate>
+            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.05 (Sat) 07:00 KST]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>

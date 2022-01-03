@@ -4,7 +4,7 @@
         <title>LAKUS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 03:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://resources.lakus.live/contents/dreamconcert2021_vod/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 Apink Fanmeeting 'Pink Eve' VOD]]></title>
+            <link>https://www.lakus.live/event/apink_vod/</link>
+            <guid>https://www.lakus.live/event/apink_vod/</guid>
+            <pubDate>Mon, 03 Jan 2022 03:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07 (Mon) 05:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Healing Time With CHUNG HA]]></title>
             <link>https://www.lakus.live/event/chungha1230/</link>
             <guid>https://www.lakus.live/event/chungha1230/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (Thu) 11:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/chungha1230/banner_img_v2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 Apink Fanmeeting 'Pink Eve']]></title>
-            <link>https://www.lakus.live/event/apink1231/</link>
-            <guid>https://www.lakus.live/event/apink1231/</guid>
-            <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31 (Fri) 10:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밴디지 연말 단독콘서트 'Christmas Gift']]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 04:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 03 Jan 2022 03:17:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07 (Mon) 05:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리마베라 ‘Samba Break’ (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/primavera0128/</link>
+            <guid>https://www.lakus.live/event/primavera0128/</guid>
+            <pubDate>Fri, 07 Jan 2022 05:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28 (Fri) 11:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/primavera0128/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Healing Time With CHUNG HA (LAKUS)]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.lakus.live/event/boyhood0711/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.11 (Sun) 06:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/boyhood0711/banner_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[재주소년 단독 공연 '꽃이 피고 지는 동안' (LAKUS)]]></title>

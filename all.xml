@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 04:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://resources.lakus.live/contents/chungha1230/banner_img_v2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김재석 with HOWON family (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/kimjaeseok0219/</link>
+            <guid>https://www.lakus.live/event/kimjaeseok0219/</guid>
+            <pubDate>Thu, 13 Jan 2022 05:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.19 (Sat) 09:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/kimjaeseok0219/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[밴디지 연말 단독콘서트 'Christmas Gift' (LAKUS)]]></title>
             <link>https://www.lakus.live/event/bandage1225/</link>
             <guid>https://www.lakus.live/event/bandage1225/</guid>
@@ -53,7 +61,7 @@
             <guid>https://www.lakus.live/event/yuboem1217/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (Fri) 11:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/yuboem1217/banner_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[보이후드 단독콘서트 'BOYHOOD #3 DREAM' (LAKUS)]]></title>

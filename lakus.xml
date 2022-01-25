@@ -4,7 +4,7 @@
         <title>LAKUS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 06:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 07:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 03 Jan 2022 03:17:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07 (Mon) 05:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리마베라 ‘Samba Break’]]></title>
-            <link>https://www.lakus.live/event/primavera0128/</link>
-            <guid>https://www.lakus.live/event/primavera0128/</guid>
-            <pubDate>Fri, 07 Jan 2022 05:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28 (Fri) 11:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/primavera0128/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김재석 with HOWON family]]></title>
@@ -61,7 +53,7 @@
             <guid>https://www.lakus.live/event/yuboem1217/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (Fri) 11:00 KST]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+            <enclosure url="https://resources.lakus.live/contents/yuboem1217/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보이후드 단독콘서트 'BOYHOOD #3 DREAM']]></title>

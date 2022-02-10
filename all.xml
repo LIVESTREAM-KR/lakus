@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,36 @@
             <enclosure url="https://resources.lakus.live/contents/kimjaeseok0219/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Connect with LUCY (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/lucy03051/</link>
+            <guid>https://www.lakus.live/event/lucy03051/</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (Sat) 06:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/lucy03051/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with LUCY (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/lucy03052/</link>
+            <guid>https://www.lakus.live/event/lucy03052/</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.05 (Sat) 10:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/lucy03051/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with The Whales (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/thewhales0306/</link>
+            <guid>https://www.lakus.live/event/thewhales0306/</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (Sun) 06:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/thewhales0306/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Healing Time With CHUNG HA (LAKUS)]]></title>
             <link>https://www.lakus.live/event/chungha1230/</link>
             <guid>https://www.lakus.live/event/chungha1230/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30 (Thu) 11:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/chungha1230/banner_img_v2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[밴디지 연말 단독콘서트 'Christmas Gift' (LAKUS)]]></title>
@@ -45,7 +69,7 @@
             <guid>https://www.lakus.live/event/bandage1225/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.25 (Sat) 10:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/bandage1225/banner_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[유보엠 연말 단독콘서트 'Christmas Gift' (LAKUS)]]></title>
@@ -53,7 +77,7 @@
             <guid>https://www.lakus.live/event/yuboem1217/</guid>
             <pubDate>Thu, 30 Dec 2021 04:24:03 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.17 (Fri) 11:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/yuboem1217/banner_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[보이후드 단독콘서트 'BOYHOOD #3 DREAM' (LAKUS)]]></title>

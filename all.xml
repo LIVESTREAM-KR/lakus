@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://resources.lakus.live/contents/kimjaeseok0219/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Connect with LUCY (LAKUS)]]></title>
+            <title><![CDATA[Connect with LUCY #1 (LAKUS)]]></title>
             <link>https://www.lakus.live/event/lucy03051/</link>
             <guid>https://www.lakus.live/event/lucy03051/</guid>
             <pubDate>Thu, 10 Feb 2022 06:18:23 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="https://resources.lakus.live/contents/lucy03051/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Connect with LUCY (LAKUS)]]></title>
+            <title><![CDATA[Connect with LUCY #2 (LAKUS)]]></title>
             <link>https://www.lakus.live/event/lucy03052/</link>
             <guid>https://www.lakus.live/event/lucy03052/</guid>
             <pubDate>Thu, 10 Feb 2022 06:18:23 GMT</pubDate>

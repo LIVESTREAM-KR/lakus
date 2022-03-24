@@ -4,7 +4,7 @@
         <title>LAKUS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 08:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://resources.lakus.live/contents/apink1231/banner_img_v2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임준혁 단독공연 ＜platfrom＞]]></title>
+            <title><![CDATA[임준혁 단독공연 ＜platform＞]]></title>
             <link>https://www.lakus.live/event/ljh0416/</link>
             <guid>https://www.lakus.live/event/ljh0416/</guid>
             <pubDate>Thu, 24 Mar 2022 05:15:16 GMT</pubDate>

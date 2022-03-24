@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 04:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 17 Feb 2022 06:57:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 (Sun) 06:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/thewhales0306/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임준혁 단독공연 (LAKUS)]]></title>
+            <link>https://www.lakus.live/event/ljh0416/</link>
+            <guid>https://www.lakus.live/event/ljh0416/</guid>
+            <pubDate>Thu, 24 Mar 2022 05:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.16 (Sat) 09:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/ljh0416/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Connect with 신현희&디에이드 (LAKUS)]]></title>
@@ -53,7 +61,7 @@
             <guid>https://www.lakus.live/event/kimjaeseok0219/</guid>
             <pubDate>Thu, 17 Feb 2022 06:57:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.19 (Sat) 09:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/kimjaeseok0219/banner_img.jpg" length="0" type="image/jpg"/>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
         </item>
         <item>
             <title><![CDATA[Healing Time With CHUNG HA (LAKUS)]]></title>

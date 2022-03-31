@@ -4,7 +4,7 @@
         <title>LAKUS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://resources.lakus.live/contents/ljh0416/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Connect with The Whales]]></title>
-            <link>https://www.lakus.live/event/thewhales0306/</link>
-            <guid>https://www.lakus.live/event/thewhales0306/</guid>
-            <pubDate>Thu, 17 Feb 2022 06:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.06 (Sun) 06:00 KST]]></content:encoded>
-            <enclosure url="https://resources.lakus.live/contents/thewhales0306/banner_img.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Connect with 신현희&디에이드]]></title>
             <link>https://www.lakus.live/event/seenade0306/</link>
             <guid>https://www.lakus.live/event/seenade0306/</guid>
             <pubDate>Thu, 17 Feb 2022 06:57:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.06 (Sun) 10:00 KST]]></content:encoded>
             <enclosure url="https://resources.lakus.live/contents/seenade0306/banner_img.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connect with The Whales]]></title>
+            <link>https://www.lakus.live/event/thewhales0306/</link>
+            <guid>https://www.lakus.live/event/thewhales0306/</guid>
+            <pubDate>Thu, 17 Feb 2022 06:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.06 (Sun) 06:00 KST]]></content:encoded>
+            <enclosure url="https://resources.lakus.live/contents/thewhales0306/banner_img.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Connect with LUCY #1]]></title>
